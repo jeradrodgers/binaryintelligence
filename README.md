@@ -1,2 +1,0 @@
-# binaryintelligence
-Binary Intelligence LLC
